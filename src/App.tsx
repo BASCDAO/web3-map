@@ -109,7 +109,10 @@ function App() {
 
         {provider && walletKey && (
           <div>
-            <p>Connected account {walletKey}</p>
+            <p>
+              Connected account
+              </p>
+
 
             <button
               style={{
